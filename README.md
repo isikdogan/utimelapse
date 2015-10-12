@@ -1,4 +1,6 @@
-# UTimelapse a tool for creating high quality timelapse videos
+### UTimelapse: a tool for creating high quality timelapse videos
+
+---
 
 This is a tool that aims to create high quality videos without requiring high-end equipment. The tool deals with three main problems that are encountered in timelapse photography: camera shake, flickering, and single-frame artifacts.
 
